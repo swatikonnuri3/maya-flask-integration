@@ -1,0 +1,7 @@
+flask
+flask-cors
+requests
+pyqt5
+sqlite3
+maya.cmds (Maya API)  # Only works inside Maya
+
